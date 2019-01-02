@@ -1,8 +1,3 @@
-# first_app
+# List App
 
-First app for course
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Creating a more complex app with Flutter.
